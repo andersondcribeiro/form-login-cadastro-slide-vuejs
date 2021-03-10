@@ -1,6 +1,14 @@
 # login-slide
 
+Formulário com efeito de transição estilo slide desenvolvido com Vue3. Pode ser utilizado para páginas de login ou cadastro de usuários sem necessidade de redirecionamento para outras páginas.
+Obs: É necessário configurar Postcss.
+
+![Captura de Tela 2021-03-10 às 14 19 29](https://user-images.githubusercontent.com/4931735/110670501-37798180-81ac-11eb-8d3e-12c355b4bff2.png)
+![Captura de Tela 2021-03-10 às 14 23 22](https://user-images.githubusercontent.com/4931735/110670507-39434500-81ac-11eb-88e1-e8392464b03c.png)
+
 [Demo no CodeSandbox](https://codesandbox.io/s/login-slide-vuejs-wtjyt)
+
+
 
 ## Project setup
 ```
